@@ -19,3 +19,5 @@ Technical Specifications:
 
 Guess Me can be developed for various platforms including web browsers, mobile devices (iOS and Android), or desktop applications.
 The specific programming language will depend on the chosen platform.
+
+The project implementation is in the branch called "master". It houses the final project along with all the resources for the game. if you would like to join in its growth and improvement, create a pull request and fork the project
